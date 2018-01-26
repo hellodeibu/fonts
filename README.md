@@ -13,6 +13,7 @@ You can also find about [Blink's official repository](https://github.com/blinksh
 
  Powerline Font Family                 | Formerly Known As       | License
 ---------------------------------------|-------------------------|------------------------------------
+ SF Mono Powerline                     | SF Mono Powerline       | [Limited](https://developer.apple.com/fonts/)
  Anonymice Powerline                   | Anonymous Pro           | [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
  Arimo Powerline                       | Arimo                   | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
  Cousine Powerline                     | Cousine                 | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
@@ -23,10 +24,10 @@ You can also find about [Blink's official repository](https://github.com/blinksh
  Literation Mono Powerline             | Liberation Mono         | [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
  Ubuntu Mono derivative Powerline      | Ubuntu Mono             | [Ubuntu Font License, Version 1.0](http://font.ubuntu.com/ufl/ubuntu-font-licence-1.0.txt)
  Monofur for Powerline                 | Monofur                 | Freeware
- Fira Code   			       | Fira Mono		 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
- Meslo				       | Menlo			 | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
- Sauce Code Pro			       | Source Code Pro	 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
- Roboto Mono			       | Roboto Mono 		 | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+ Fira Code                             | Fira Mono               | [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
+ Meslo                                 | Menlo                   | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+ Sauce Code Pro                        | Source Code Pro         | [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
+ Roboto Mono                           | Roboto Mono             | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
  
 
 
