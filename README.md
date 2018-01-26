@@ -13,7 +13,7 @@ You can also find about [Blink's official repository](https://github.com/blinksh
 
  Powerline Font Family                 | Formerly Known As       | License
 ---------------------------------------|-------------------------|------------------------------------
- SF Mono Powerline                     | SF Mono Powerline       | [Limited](https://developer.apple.com/fonts/)
+ SFMono for Powerline                  | SF Mono                 | [Limited](https://developer.apple.com/fonts/)
  Anonymice Powerline                   | Anonymous Pro           | [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
  Arimo Powerline                       | Arimo                   | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
  Cousine Powerline                     | Cousine                 | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
